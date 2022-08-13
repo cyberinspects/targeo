@@ -1,4 +1,4 @@
-# targeo
+# Targeo
 Target range calculator and ip geo lookup tool.
 
 
