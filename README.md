@@ -12,9 +12,9 @@ Target range calculator and ip geo lookup tool.
 ## How to install
 ```
 git clone https://github.com/cyberinspects/targeo
-cd adminfinder
+cd targeo
 pip3 install -r requirements.txt
-python3 targeo.py
+python3 vv.py
 ```
 ## How to use
 ```
@@ -44,7 +44,7 @@ The script is developed by Kaleem Ibn Anwar (@kaleemibnanwar), He is a professio
 
 ##### LinkedIn: [@CyberInspects](https://linkedin.com/company/cyberinspects)
 
-## YOUTUBE
+## Youtube
 [Subscribe Now](https://youtube.com/c/CyberInspects) 
 
 ## Contact
