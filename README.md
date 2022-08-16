@@ -36,10 +36,10 @@ python3 targeo.py -l 127.0.0.1                {-l IP address to find geo and ISP
 # Kaleem Ibn Anwar
 ```
 ⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿
-⣿⡋⠣⢖⣂⡋⡛⠚⠛⡷⢋⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⡯⣿
-⣟⣁⡄⠉⠂⠞⢙⠣⠱⢣⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢳⡿
-⡯⢛⠀⡀⠃⠀⠊⠞⠁⣼⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⣿⣿⣿⣿⣿⣾⠙
-⣗⣒⣄⠀⠀⢈⡃⣠⣾⣿⣿⣿⡿⣿⣿⣿⣿⣿⣷⠄⣰⣝⢿⣿⣿⣿⠃⣙
+⣿⡋⠣⢖⣂⡋⡛⠚⠛⡷⢋⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⡯⣿ The script is developed by Kaleem Ibn Anwar (@kaleemibnanwar), 
+⣟⣁⡄⠉⠂⠞⢙⠣⠱⢣⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢳⡿ He is a professional python programmer and Cyber Security expert. He is also the
+⡯⢛⠀⡀⠃⠀⠊⠞⠁⣼⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⣿⣿⣿⣿⣿⣾⠙ owner of cyberinspects vendor. You may follow or contact him on 
+⣗⣒⣄⠀⠀⢈⡃⣠⣾⣿⣿⣿⡿⣿⣿⣿⣿⣿⣷⠄⣰⣝⢿⣿⣿⣿⠃⣙ @kaleemibnanwar
 ⣟⡈⡔⠀⠐⣊⣧⣿⣿⣿⠟⠁⠀⠈⠛⠿⠛⠛⠀⢸⣿⣿⣿⣿⣿⠏⢠⣿
 ⣿⣿⢖⣄⡮⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣿⣽⣿⡟⠀⡜⣏
 ⡿⢝⣦⡟⣛⣿⢾⣿⣿⣿⡧⠀⠀⠀⢠⣤⡀⠀⠀⠀⠀⠀⢀⡟⠁⡀⢱⡳
@@ -50,8 +50,7 @@ python3 targeo.py -l 127.0.0.1                {-l IP address to find geo and ISP
 ⣗⣿⣻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡀⠀⠀⠠⠤⠤⡼⣤⣻
 ⣿⣿⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡿⢷⣾⠿⠿⡿⠻
 ```
-The script is developed by Kaleem Ibn Anwar (@kaleemibnanwar), He is a professional python programmer and Cyber Security expert. He is also the owner of cyberinspects vendor. You may follow or contact him on 
-#####@kaleemibnanwar
+
 ## Follow us!
 
 ##### Instagram: [@CyberInspects](https://instagram.com/cyberinspects)
