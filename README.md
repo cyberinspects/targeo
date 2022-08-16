@@ -14,7 +14,7 @@ Target range calculator and ip geo lookup tool.
 git clone https://github.com/cyberinspects/targeo
 cd targeo
 pip3 install -r requirements.txt
-python3 targeo.py
+python3 targeo.py [parameters]
 ```
 ## How to use
 ```
